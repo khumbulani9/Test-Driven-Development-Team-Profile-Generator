@@ -112,4 +112,4 @@ To contribute to this project, follow these steps:
 5. Create a new pull request.
 
 ### Contributions
-This project was developed by a single contributor [Khumbulani9](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/edit/main/README.md).
+This project was developed by the contributor [Khumbulani9](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/edit/main/README.md).
