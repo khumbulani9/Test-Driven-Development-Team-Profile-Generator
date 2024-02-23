@@ -15,6 +15,13 @@ SO THAT I have quick access to their emails and GitHub profiles
 <<<<<<< HEAD
 ## Acceptance Criteria 
 
+* Satisfies all of the preceding acceptance criteria plus the following:
+
+* Uses the Inquirer packageLinks to an external site..
+
+* All tests pass using the Jest packageLinks to an external site..
+
+* The application must have Employee, Manager, Engineer, and Intern classes.
 
 =======
 
