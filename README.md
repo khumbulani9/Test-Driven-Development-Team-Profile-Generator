@@ -30,7 +30,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 * jest 
 * fs 
 * Google font 
->>>>>>> ac21bd864b375df26117d6b3b87cefa76e0ad98a
+
 
 ## Installation
 
