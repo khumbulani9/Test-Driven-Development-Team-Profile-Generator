@@ -4,7 +4,7 @@ In this Challenge, the main objective is to create an application that generates
 
 ## Description of the Assignment
 
-This project is a Test-Driven Development: Team Profile Generator designed to streamline the process of creating a team's profile. It employs object-oriented programming principles and interactive command-line prompts to collect information about team members and generate an HTML file for easy visualization. The primary technologies and tools used in this project include: JavaScript (JS), Node.js, Inquirer.js and Jest.
+This project is known as Test-Driven Development Team Profile Generator designed to make it more accessible and much quicker to process and create a team's profile. It employs object-oriented programming (OOP) principles and interactive command-line prompts to collect information about team members and generate an HTML file for easy visualization. The primary technologies and tools used in this project include: JavaScript (JS), Node.js, Inquirer.js and Jest.
 
 ## User Story
 
@@ -45,3 +45,38 @@ node_modules
 
 ## Screenshots
 
+## Usage
+
+To use the Team Profile Generator, run the command `node index.js` in the terminal. Follow the prompts to provide information about your team, and the generator will create the `team.html` file based on your input.
+
+1. Run the application:
+```bash
+node index.js
+```
+If you need you can:
+1. Stop the application:
+```bash
+^C
+```
+2. Clear the terminal:
+```bash
+clear
+```
+## Deployment
+> This project is deployed and accessible at the following URLs:
+> 
+> - [GitHub Repository](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/edit/main/README.md"): Visit the link to the repository for me details about the project.
+> - [Sample HTML]: Visit this link to view the team.html file generated using the application.
+
+
+## How to Contribute to the Repository
+To contribute to this project, follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature (`git checkout -b feature-name`).
+3. Commit your changes (`git commit -m 'Add feature'`).
+4. Push to the branch (`git push origin feature-name`).
+5. Create a new pull request.
+
+### Contributions
+This project was developed by a single contributor [dePonte](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/edit/main/README.md).
