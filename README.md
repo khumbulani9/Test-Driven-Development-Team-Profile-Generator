@@ -12,7 +12,7 @@ AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
-<<<<<<< HEAD
+
 ## Acceptance Criteria 
 
 * Satisfies all of the preceding acceptance criteria plus the following:
@@ -22,8 +22,6 @@ SO THAT I have quick access to their emails and GitHub profiles
 * All tests pass using the Jest packageLinks to an external site..
 
 * The application must have Employee, Manager, Engineer, and Intern classes.
-
-=======
 
 ## Technology Used
 
@@ -36,9 +34,8 @@ SO THAT I have quick access to their emails and GitHub profiles
 * inquirer 
 * jest 
 * fs 
-* Google font 
-
-
+* Google font
+  
 ## Installation
 
 The initial project can be installed by cloning the repository from Github and by following the steps required to install the following files.
