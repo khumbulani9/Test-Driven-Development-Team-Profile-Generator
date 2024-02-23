@@ -12,6 +12,10 @@ AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
+## Acceptance Criteria 
+
+
+
 ## Installation
 
 The initial project can be installed by cloning the repository from Github and by following the steps required to install the following files.
@@ -42,6 +46,19 @@ Create a file named `.gitignore` to specify files and directories that should be
 ```bash
 node_modules
 ```
+
+## Technology Used
+
+* Javascript 
+* HTML
+* CSS 
+* JQUERY
+* Bootstrap 
+* npm 
+* inquirer 
+* jest 
+* fs 
+* Google font 
 
 ## Screenshots
 
