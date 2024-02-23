@@ -113,3 +113,9 @@ To contribute to this project, follow these steps:
 
 ### Contributions
 This project was developed by the contributor [Khumbulani9](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/edit/main/README.md).
+
+## Licence
+
+MIT License
+
+Copyright (c) 2024 khumbulani9
