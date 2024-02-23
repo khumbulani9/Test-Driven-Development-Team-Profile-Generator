@@ -5,5 +5,27 @@ class Employee {
  construct(name, id, email) {
   this,name = name;
   this.id = id;
+  this.email = email;
  }
+
+ // Methods to get employee details
+ getName() {
+  return this.name;
+ }
+
+ getId() {
+  return this.id; 
+ }
+
+ getEmail() {
+  return this.email;
 }
+
+// Method to get the role (common for all employees, overridden in subclasses)
+getRole() {
+  return "Employee";
+}
+}
+
+// Export the Employee class to make it available for other modules
+module.exports = Employee;
