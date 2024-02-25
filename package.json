@@ -1,0 +1,16 @@
+{
+  "name": "test-driven-development--team-profile-generator",
+  "version": "1.0.0",
+  "description": "In this Challenge, the main objective is to create an application that generates HTML files using input from a command-line interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "jest": "^29.7.0"
+  }
+}
