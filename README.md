@@ -104,7 +104,7 @@ clear
 ## Deployment
 > This project is deployed and accessible at the following URLs:
 > 
-> - [GitHub Repository](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/edit/main/README.md"): Visit the link to the repository for me details about the project.
+> - [GitHub Repository](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/blob/main/README.md): Visit the link to the repository for me details about the project.
 > - [Sample HTML]: Visit this link to view the team.html file generated using the application.
 
 
