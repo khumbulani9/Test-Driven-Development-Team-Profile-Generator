@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Screenshots](#screenshots)
 - [Credits](#credits)
+   [Usage](#usage)
 - [Deployment](#deployment)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
