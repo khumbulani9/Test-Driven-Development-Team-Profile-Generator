@@ -1,3 +1,18 @@
+## Table of Contents
+- [Test-Driven-Development-team-profile-generator](#Test-Driven-Development-team-profile-generator)
+- [Description of the Assignment](#Description-of-the-Assignment)
+- [User Story](#user-story)
+- [Acceptance-Criteria](#Acceptance-Critera)
+- [Technology-Used](#Technology-Used)
+- [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Credits](#credits)
+- [Deployment](#deployment)
+- [How to Contribute](#how-to-contribute)
+- [License](#license)
+- [Badges](#badges)
+
+
 # Test-Driven-Development--Team-Profile-Generator
 
 In this Challenge, the main objective is to create an application that generates HTML files using input from a command-line interface.
@@ -66,19 +81,6 @@ Create a file named `.gitignore` to specify files and directories that should be
 ```bash
 node_modules
 ```
-
-## Technology Used
-
-* Javascript 
-* HTML
-* CSS 
-* JQUERY
-* Bootstrap 
-* npm 
-* inquirer 
-* jest 
-* fs 
-* Google font 
 
 ## Screenshots
 
