@@ -1,6 +1,7 @@
 ## Table of Contents
 - [Test-Driven-Development-team-profile-generator](#Test-Driven-Development-team-profile-generator)
 - [Description of the Assignment](#Description-of-the-Assignment)
+- [Live-Screen-Recording-of-Application-Functionality](Live-Screen-Recording-of-Application-Functionality)
 - [User Story](#user-story)
 - [Acceptance-Criteria](#Acceptance-Critera)
 - [Technology-Used](#Technology-Used)
