@@ -21,7 +21,7 @@ In this Challenge, the main objective is to create an application that generates
 
 ## Description of the Assignment
 
-This project is known as Test-Driven Development Team Profile Generator designed to make it more accessible and much quicker to process and create a team's profile. It employs object-oriented programming (OOP) principles and interactive command-line prompts to collect information about team members and generate an HTML file for easy visualization. The primary technologies and tools used in this project include: JavaScript (JS), Node.js, Inquirer.js and Jest.
+This project is known as a Test-Driven Development Team Profile Generator, designed to make it more accessible and much quicker to process and create a team profile. It employs object-oriented programming (OOP) principles and interactive command-line prompts to collect information about team members and generate an HTML file for easy visualization. The primary technologies and tools used in this project include: JavaScript (JS), Node.js, Inquirer.js and Jest.
 
 ## Live Screen Recording of Application Functionality 
 
@@ -123,7 +123,7 @@ clear
 > This project is deployed and accessible at the following URLs:
 > 
 > - [GitHub Repository](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/blob/main/README.md): Visit the link to the repository for me details about the project.
-> - [https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/blob/main/team.html](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/blob/main/team.html): Visit this link to view the team.html file generated using the application.
+> - [HTML file:](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/blob/main/team.html): Visit this link to view the team.html file generated using the application.
 
 
 ## How to Contribute to the Repository
