@@ -97,6 +97,10 @@ node_modules
 
 [![Screenshot 2024-02-26 181646](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/assets/146132836/89796a19-f0ac-42f4-b4bc-367341499552)
 
+[![image](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/assets/146132836/f718f8ab-b4f7-47c3-975a-8ce8f0d9eddb)
+](![image](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/assets/146132836/1e08800d-6df3-4f55-af35-05fd9f55534e)
+)
+
 
 ## Usage
 
