@@ -22,6 +22,10 @@ In this Challenge, the main objective is to create an application that generates
 
 This project is known as Test-Driven Development Team Profile Generator designed to make it more accessible and much quicker to process and create a team's profile. It employs object-oriented programming (OOP) principles and interactive command-line prompts to collect information about team members and generate an HTML file for easy visualization. The primary technologies and tools used in this project include: JavaScript (JS), Node.js, Inquirer.js and Jest.
 
+## Live Screen Recording of Application Functionality 
+
+
+
 ## User Story
 
 AS A manager
