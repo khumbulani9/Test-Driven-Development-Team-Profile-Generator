@@ -92,6 +92,12 @@ node_modules
 
 ## Screenshots
 
+[![Screenshot 2024-02-25 172320](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/assets/146132836/dc8bdf37-1a64-4810-a0ee-c06cc2151a15)
+
+
+[![Screenshot 2024-02-26 181646](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/assets/146132836/89796a19-f0ac-42f4-b4bc-367341499552)
+
+
 ## Usage
 
 To use the Team Profile Generator, run the command `node index.js` in the terminal. Follow the prompts to provide information about your team, and the generator will create the `team.html` file based on your input.
