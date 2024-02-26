@@ -123,7 +123,7 @@ clear
 > This project is deployed and accessible at the following URLs:
 > 
 > - [GitHub Repository](https://github.com/khumbulani9/Test-Driven-Development--Team-Profile-Generator/blob/main/README.md): Visit the link to the repository for me details about the project.
-> - [file:///C:/Users/MKJubane/Assignment/Test-Driven-Development--Team-Profile-Generator/team.html](file:///C:/Users/MKJubane/Assignment/Test-Driven-Development--Team-Profile-Generator/team.html): Visit this link to view the team.html file generated using the application.
+> - [https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/blob/main/team.html](https://github.com/khumbulani9/Test-Driven-Development-Team-Profile-Generator/blob/main/team.html): Visit this link to view the team.html file generated using the application.
 
 
 ## How to Contribute to the Repository
